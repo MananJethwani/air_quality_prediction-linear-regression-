@@ -5,7 +5,7 @@ I am using linear regression model considering I have a small data
 
 ## dataset
 
-data is taken from this [site].(https://archive.ics.uci.edu/ml/datasets/Air+Quality)
+data is taken from this [site](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
 
 ## Install
 
