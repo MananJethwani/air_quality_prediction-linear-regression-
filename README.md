@@ -1,4 +1,4 @@
-# In this project I am trying to create a basic Air quality prediction mode
+# In this project I am trying to create a basic Air quality prediction model
 
 ## Method used 
 I am using linear regression model considering I have a small data
